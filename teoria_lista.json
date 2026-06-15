@@ -6,13 +6,124 @@
       "icone": "⚛️",
       "cor": "#42A5F5",
       "topicos": [
-        {
-          "id": "mecanica",
-          "titulo": "Mecânica",
-          "descricao": "Estude movimento, força e energia.",
-          "imagem": "https://...",
-          "link": "#"
-        }
+        { "id": "mecanica", "titulo": "Mecânica", "descricao": "Estude movimento, força e energia com exemplos do dia a dia.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Newton_portrait.jpg/220px-Newton_portrait.jpg", "link": "#" },
+        { "id": "eletromagnetismo", "titulo": "Eletromagnetismo", "descricao": "Entenda campos elétricos, magnéticos e suas interações.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Electromagnetism.svg/220px-Electromagnetism.svg.png", "link": "#" },
+        { "id": "termodinamica", "titulo": "Termodinâmica", "descricao": "Explore calor, temperatura e as leis da termodinâmica.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png", "link": "#" },
+        { "id": "optica", "titulo": "Óptica", "descricao": "Descubra como a luz se comporta, refração e reflexão.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Light_dispersion_conceptual_waves.gif/220px-Light_dispersion_conceptual_waves.gif", "link": "#" },
+        { "id": "ondas", "titulo": "Ondulatória", "descricao": "Aprenda sobre ondas, som e fenômenos ondulatórios.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sine_wave_amplitude.svg/220px-Sine_wave_amplitude.svg.png", "link": "#" },
+        { "id": "fisica-moderna", "titulo": "Física Moderna", "descricao": "Relatividade, física quântica e o universo subatômico.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/220px-Albert_Einstein_Head.jpg", "link": "#" },
+        { "id": "gravitacao", "titulo": "Gravitação", "descricao": "Lei da gravitação universal e mecânica celeste.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/GravityPotential.jpg/220px-GravityPotential.jpg", "link": "#" },
+        { "id": "hidrostatica", "titulo": "Hidrostática", "descricao": "Pressão, empuxo e comportamento dos fluidos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Buoyancy.svg/220px-Buoyancy.svg.png", "link": "#" },
+        { "id": "circuitos", "titulo": "Circuitos Elétricos", "descricao": "Resistência, corrente, tensão e circuitos em série e paralelo.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Ohm%27s_Law_with_Ohm_portrait.svg/220px-Ohm%27s_Law_with_Ohm_portrait.svg.png", "link": "#" },
+        { "id": "nuclear", "titulo": "Física Nuclear", "descricao": "Radioatividade, fissão, fusão e energia nuclear.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Nuclear_fission.svg/220px-Nuclear_fission.svg.png", "link": "#" }
+      ]
+    },
+    {
+      "id": "matematica",
+      "nome": "Matemática",
+      "icone": "📐",
+      "cor": "#AB47BC",
+      "topicos": [
+        { "id": "algebra", "titulo": "Álgebra", "descricao": "Equações, inequações e expressões algébricas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camponotus_flavomarginatus_ant.jpg/220px-Camponotus_flavomarginatus_ant.jpg", "link": "#" },
+        { "id": "funcoes", "titulo": "Funções", "descricao": "Funções lineares, quadráticas, exponenciais e logarítmicas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Parabola2.gif/220px-Parabola2.gif", "link": "#" },
+        { "id": "geometria-plana", "titulo": "Geometria Plana", "descricao": "Áreas, perímetros e propriedades das figuras planas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Triangles_%28spherical_geometry%29.jpg/220px-Triangles_%28spherical_geometry%29.jpg", "link": "#" },
+        { "id": "geometria-espacial", "titulo": "Geometria Espacial", "descricao": "Volumes e superfícies de sólidos geométricos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dodecahedron.jpg/220px-Dodecahedron.jpg", "link": "#" },
+        { "id": "trigonometria", "titulo": "Trigonometria", "descricao": "Seno, cosseno, tangente e identidades trigonométricas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Unit_circle_angles_color.svg/220px-Unit_circle_angles_color.svg.png", "link": "#" },
+        { "id": "calculo", "titulo": "Cálculo", "descricao": "Limites, derivadas e integrais de funções reais.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Newton_vs_Leibniz2.jpg/220px-Newton_vs_Leibniz2.jpg", "link": "#" },
+        { "id": "probabilidade", "titulo": "Probabilidade", "descricao": "Eventos, espaço amostral e cálculo de probabilidades.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Normal_Distribution_BW.svg/220px-Normal_Distribution_BW.svg.png", "link": "#" },
+        { "id": "estatistica", "titulo": "Estatística", "descricao": "Média, mediana, moda e análise de dados.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Box_plot_vs_pdf.svg/220px-Box_plot_vs_pdf.svg.png", "link": "#" },
+        { "id": "matrizes", "titulo": "Matrizes e Determinantes", "descricao": "Operações com matrizes e cálculo de determinantes.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Matrix_transpose.gif/220px-Matrix_transpose.gif", "link": "#" },
+        { "id": "analitica", "titulo": "Geometria Analítica", "descricao": "Pontos, retas e cônicas no plano cartesiano.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Cartesian-coordinate-system.svg/220px-Cartesian-coordinate-system.svg.png", "link": "#" }
+      ]
+    },
+    {
+      "id": "quimica",
+      "nome": "Química",
+      "icone": "🧪",
+      "cor": "#26A69A",
+      "topicos": [
+        { "id": "quimica-geral", "titulo": "Química Geral", "descricao": "Matéria, energia, átomos e tabela periódica.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Periodic_table_large.png/220px-Periodic_table_large.png", "link": "#" },
+        { "id": "ligacoes", "titulo": "Ligações Químicas", "descricao": "Ligações iônicas, covalentes e metálicas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Covalent_bond_hydrogen.svg/220px-Covalent_bond_hydrogen.svg.png", "link": "#" },
+        { "id": "estequiometria", "titulo": "Estequiometria", "descricao": "Cálculos químicos e balanceamento de equações.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Combustion_reaction_of_methane.jpg/220px-Combustion_reaction_of_methane.jpg", "link": "#" },
+        { "id": "solucoes", "titulo": "Soluções", "descricao": "Concentração, solubilidade e propriedades das soluções.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Dissolving_sugar_in_water.jpg/220px-Dissolving_sugar_in_water.jpg", "link": "#" },
+        { "id": "eletroquimica", "titulo": "Eletroquímica", "descricao": "Pilhas, eletrólise e reações de oxirredução.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Galvanic_cell_with_no_cation_flow.png/220px-Galvanic_cell_with_no_cation_flow.png", "link": "#" },
+        { "id": "termoquimica", "titulo": "Termoquímica", "descricao": "Entalpia, calor de reação e calorimetria.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Bunsen_burner_flame.jpg/220px-Bunsen_burner_flame.jpg", "link": "#" },
+        { "id": "organica", "titulo": "Química Orgânica", "descricao": "Carbono, hidrocarbonetos e funções orgânicas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Benzene_Structural_diagram.svg/220px-Benzene_Structural_diagram.svg.png", "link": "#" },
+        { "id": "acidos-bases", "titulo": "Ácidos e Bases", "descricao": "pH, neutralização e teoria de Arrhenius e Brønsted.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Universal_indicator_paper.jpg/220px-Universal_indicator_paper.jpg", "link": "#" },
+        { "id": "equilibrio", "titulo": "Equilíbrio Químico", "descricao": "Constante de equilíbrio e princípio de Le Chatelier.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Equilibrium.svg/220px-Equilibrium.svg.png", "link": "#" },
+        { "id": "bioquimica", "titulo": "Bioquímica", "descricao": "Proteínas, carboidratos, lipídios e ácidos nucleicos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Protein_structure.png/220px-Protein_structure.png", "link": "#" }
+      ]
+    },
+    {
+      "id": "biologia",
+      "nome": "Biologia",
+      "icone": "🧬",
+      "cor": "#66BB6A",
+      "topicos": [
+        { "id": "citologia", "titulo": "Citologia", "descricao": "Estrutura e funcionamento das células.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Animal_cell_structure_en.svg/220px-Animal_cell_structure_en.svg.png", "link": "#" },
+        { "id": "genetica", "titulo": "Genética", "descricao": "Hereditariedade, DNA, RNA e leis de Mendel.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/DNA_structure_and_bases.png/220px-DNA_structure_and_bases.png", "link": "#" },
+        { "id": "botanica", "titulo": "Botânica", "descricao": "Estrutura, fisiologia e classificação das plantas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Camponotus_flavomarginatus_ant.jpg/220px-Camponotus_flavomarginatus_ant.jpg", "link": "#" },
+        { "id": "zoologia", "titulo": "Zoologia", "descricao": "Classificação e características dos animais.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Collage_of_Nine_Dogs.jpg/220px-Collage_of_Nine_Dogs.jpg", "link": "#" },
+        { "id": "ecologia", "titulo": "Ecologia", "descricao": "Ecossistemas, cadeias alimentares e meio ambiente.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/24701-nature-natural-beauty.jpg/220px-24701-nature-natural-beauty.jpg", "link": "#" },
+        { "id": "histologia", "titulo": "Histologia", "descricao": "Tecidos animais e suas funções no organismo.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Histology_types.jpg/220px-Histology_types.jpg", "link": "#" },
+        { "id": "fisiologia", "titulo": "Fisiologia Humana", "descricao": "Sistemas do corpo humano e seu funcionamento.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Anatomy_of_the_Human_Body.jpg/220px-Anatomy_of_the_Human_Body.jpg", "link": "#" },
+        { "id": "evolucao", "titulo": "Evolução", "descricao": "Teorias evolutivas, seleção natural e especiação.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Darwin_Tree_1837.png/220px-Darwin_Tree_1837.png", "link": "#" },
+        { "id": "microbiologia", "titulo": "Microbiologia", "descricao": "Vírus, bactérias, fungos e protistas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Bacteria_morphology_diagram.svg/220px-Bacteria_morphology_diagram.svg.png", "link": "#" },
+        { "id": "bioquimica-cel", "titulo": "Bioquímica Celular", "descricao": "Fotossíntese, respiração celular e metabolismo.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Photosynthesis_en.svg/220px-Photosynthesis_en.svg.png", "link": "#" }
+      ]
+    },
+    {
+      "id": "programacao",
+      "nome": "Programação",
+      "icone": "💻",
+      "cor": "#FFA726",
+      "topicos": [
+        { "id": "html", "titulo": "HTML", "descricao": "Estrutura de páginas web com tags e semântica.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/220px-HTML5_logo_and_wordmark.svg.png", "link": "#" },
+        { "id": "css", "titulo": "CSS", "descricao": "Estilização, layouts e design responsivo.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/220px-CSS3_logo_and_wordmark.svg.png", "link": "#" },
+        { "id": "javascript", "titulo": "JavaScript", "descricao": "Lógica de programação, DOM e interatividade.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/220px-Unofficial_JavaScript_logo_2.svg.png", "link": "#" },
+        { "id": "python", "titulo": "Python", "descricao": "Linguagem versátil para web, dados e automação.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/220px-Python-logo-notext.svg.png", "link": "#" },
+        { "id": "java", "titulo": "Java", "descricao": "Programação orientada a objetos e aplicações robustas.", "imagem": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/220px-Java_programming_language_logo.svg.png", "link": "#" },
+        { "id": "react", "titulo": "React", "descricao": "Biblioteca JavaScript para interfaces modernas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/220px-React-icon.svg.png", "link": "#" },
+        { "id": "banco-de-dados", "titulo": "Banco de Dados", "descricao": "SQL, modelagem e consultas em banco de dados.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/220px-Sql_data_base_with_logo.png", "link": "#" },
+        { "id": "algoritmos", "titulo": "Algoritmos", "descricao": "Lógica, estruturas de dados e resolução de problemas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Binary_tree.svg/220px-Binary_tree.svg.png", "link": "#" },
+        { "id": "git", "titulo": "Git e GitHub", "descricao": "Controle de versão e colaboração em projetos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/220px-Git-logo.svg.png", "link": "#" },
+        { "id": "ia", "titulo": "Inteligência Artificial", "descricao": "Machine learning, redes neurais e IA aplicada.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Artificial_intelligence_prompt_completion_icon.svg/220px-Artificial_intelligence_prompt_completion_icon.svg.png", "link": "#" }
+      ]
+    },
+    {
+      "id": "eletronica",
+      "nome": "Eletrônica",
+      "icone": "⚡",
+      "cor": "#EF5350",
+      "topicos": [
+        { "id": "componentes", "titulo": "Componentes Eletrônicos", "descricao": "Resistores, capacitores, transistores e diodos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Electronic-component-closeup.jpg/220px-Electronic-component-closeup.jpg", "link": "#" },
+        { "id": "arduino", "titulo": "Arduino", "descricao": "Prototipagem eletrônica com microcontroladores.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Arduino_Uno_-_R3.jpg/220px-Arduino_Uno_-_R3.jpg", "link": "#" },
+        { "id": "esp32", "titulo": "ESP32", "descricao": "Microcontrolador WiFi e Bluetooth para IoT.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg/220px-ESP32_Espressif_ESP-WROOM-32_Dev_Board.jpg", "link": "#" },
+        { "id": "circuitos-digitais", "titulo": "Circuitos Digitais", "descricao": "Portas lógicas, flip-flops e circuitos combinacionais.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Gates.svg/220px-Gates.svg.png", "link": "#" },
+        { "id": "sensores", "titulo": "Sensores e Atuadores", "descricao": "Temperatura, umidade, movimento e controle.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lidar_P1260715b.jpg/220px-Lidar_P1260715b.jpg", "link": "#" },
+        { "id": "iot", "titulo": "IoT", "descricao": "Internet das Coisas e automação residencial.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Internet_of_Things.jpg/220px-Internet_of_Things.jpg", "link": "#" },
+        { "id": "sinais", "titulo": "Sinais e Sistemas", "descricao": "Análise de sinais analógicos e digitais.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fourier_transform_time_and_frequency_domains.gif/220px-Fourier_transform_time_and_frequency_domains.gif", "link": "#" },
+        { "id": "amplificadores", "titulo": "Amplificadores", "descricao": "Op-amps, ganho e circuitos de amplificação.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Op-amp_symbol.svg/220px-Op-amp_symbol.svg.png", "link": "#" },
+        { "id": "microcontroladores", "titulo": "Microcontroladores", "descricao": "Programação embarcada e sistemas de tempo real.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ATmega8_01_Pengo.jpg/220px-ATmega8_01_Pengo.jpg", "link": "#" },
+        { "id": "energia", "titulo": "Fontes de Energia", "descricao": "Fontes de alimentação, baterias e energia solar.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Solar_Panels_on_a_rooftop.jpg/220px-Solar_Panels_on_a_rooftop.jpg", "link": "#" }
+      ]
+    },
+    {
+      "id": "solidworks",
+      "nome": "SolidWorks",
+      "icone": "🔧",
+      "cor": "#FF7043",
+      "topicos": [
+        { "id": "introducao-sw", "titulo": "Introdução ao SolidWorks", "descricao": "Interface, ferramentas básicas e primeiros passos.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "sketch", "titulo": "Sketch 2D", "descricao": "Criação de esboços 2D e relações geométricas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "modelagem-3d", "titulo": "Modelagem 3D", "descricao": "Extrusão, revolução e operações booleanas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "montagem", "titulo": "Montagem", "descricao": "Criação de conjuntos e relações entre peças.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "desenho-tecnico", "titulo": "Desenho Técnico", "descricao": "Criação de pranchas e cotas em 2D.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "simulacao", "titulo": "Simulação FEA", "descricao": "Análise de tensões e deformações em peças.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "render", "titulo": "Renderização", "descricao": "Visualização realista com PhotoView 360.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "chapa", "titulo": "Chapa Metálica", "descricao": "Modelagem de peças em chapa e planificação.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "solda", "titulo": "Estruturas Soldadas", "descricao": "Projeto de estruturas metálicas e soldas.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" },
+        { "id": "impressao-3d", "titulo": "Impressão 3D", "descricao": "Preparação de modelos para impressão 3D.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Solidworks.png/220px-Solidworks.png", "link": "#" }
       ]
     }
   ]

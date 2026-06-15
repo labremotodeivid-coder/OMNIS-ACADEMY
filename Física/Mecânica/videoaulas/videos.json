@@ -1,0 +1,44 @@
+{
+  "videoaulas": [
+    {
+      "id": "v1",
+      "titulo": "Introdução à Cinemática",
+      "descricao": "Conceitos básicos de posição, velocidade e aceleração.",
+      "youtube_id": "O_4gLqJwj0I",
+      "duracao": "18:32",
+      "nivel": "Iniciante"
+    },
+    {
+      "id": "v2",
+      "titulo": "MRU — Movimento Retilíneo Uniforme",
+      "descricao": "Aprenda tudo sobre o movimento com velocidade constante.",
+      "youtube_id": "KX7v0gXBqvU",
+      "duracao": "22:14",
+      "nivel": "Iniciante"
+    },
+    {
+      "id": "v3",
+      "titulo": "MRUV — Movimento Uniformemente Variado",
+      "descricao": "Equações horárias e resolução de problemas.",
+      "youtube_id": "Yr_wood0VQBY",
+      "duracao": "25:47",
+      "nivel": "Intermediário"
+    },
+    {
+      "id": "v4",
+      "titulo": "As 3 Leis de Newton",
+      "descricao": "Inércia, F=ma e ação e reação explicados com exemplos.",
+      "youtube_id": "tt1JyGpoOaY",
+      "duracao": "30:15",
+      "nivel": "Intermediário"
+    },
+    {
+      "id": "v5",
+      "titulo": "Energia Cinética e Potencial",
+      "descricao": "Conservação de energia e teorema trabalho-energia.",
+      "youtube_id": "w4QFJb9a8vo",
+      "duracao": "27:33",
+      "nivel": "Intermediário"
+    }
+  ]
+}

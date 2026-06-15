@@ -1,0 +1,19 @@
+{
+  "materias": [
+    {
+      "id": "fisica",
+      "nome": "Física",
+      "icone": "⚛️",
+      "cor": "#42A5F5",
+      "topicos": [
+        {
+          "id": "mecanica",
+          "titulo": "Mecânica",
+          "descricao": "Estude movimento, força e energia.",
+          "imagem": "https://...",
+          "link": "#"
+        }
+      ]
+    }
+  ]
+}

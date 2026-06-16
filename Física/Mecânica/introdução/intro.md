@@ -1,4 +1,4 @@
-# 🔬 Introdução à Mecânica
+# 🔬 Introdução à Mecânica 
 
 > *"Se eu vi mais longe, foi por estar sobre os ombros de gigantes."*
 > — Isaac Newton

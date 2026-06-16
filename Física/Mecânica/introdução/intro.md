@@ -116,7 +116,7 @@ Aqui você aprende a **descrever** o movimento: posição, velocidade, aceleraç
 
 Aqui entram em cena as **forças** e as famosas **Leis de Newton**. Você aprenderá a identificar as forças que atuam sobre um corpo e a prever como ele vai se mover.
 
-**Grandezas centrais:** $\vec{F}$, $m$, $\vec{a}$, força peso $P = mg$, força normal $N$, atrito \rho
+**Grandezas centrais:** $\vec{F}$, $m$, $\vec{a}$, força peso $P = mg$, força normal $N$, atrito $\rho
 
 ---
 

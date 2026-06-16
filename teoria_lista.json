@@ -6,7 +6,7 @@
       "icone": "⚛️",
       "cor": "#42A5F5",
       "topicos": [
-        { "id": "mecanica", "titulo": "Mecânica", "descricao": "Estude movimento, força e energia com exemplos do dia a dia.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Newton_portrait.jpg/220px-Newton_portrait.jpg", "link": "#" },
+        { "id": "mecanica", "titulo": "Mecânica", "descricao": "Estude movimento, força e energia com exemplos do dia a dia.", "imagem": "https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Física/Mecânica/images/mecânica_capa.png" , "link": "#" },
         { "id": "eletromagnetismo", "titulo": "Eletromagnetismo", "descricao": "Entenda campos elétricos, magnéticos e suas interações.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Electromagnetism.svg/220px-Electromagnetism.svg.png", "link": "#" },
         { "id": "termodinamica", "titulo": "Termodinâmica", "descricao": "Explore calor, temperatura e as leis da termodinâmica.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png", "link": "#" },
         { "id": "optica", "titulo": "Óptica", "descricao": "Descubra como a luz se comporta, refração e reflexão.", "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Light_dispersion_conceptual_waves.gif/220px-Light_dispersion_conceptual_waves.gif", "link": "#" },

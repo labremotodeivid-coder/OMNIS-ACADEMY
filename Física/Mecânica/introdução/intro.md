@@ -96,7 +96,9 @@ $$W = F\,d\,\cos\theta$$
 
 O conteúdo foi estruturado em **módulos progressivos**, de modo que cada etapa prepara o terreno para a seguinte. Recomendamos fortemente seguir a ordem abaixo:
 
-➡️ **Cinemática → Dinâmica → Energia e Trabalho → Quantidade de Movimento → Gravitação**
+```
+Cinemática → Dinâmica → Energia e Trabalho → Quantidade de Movimento → Gravitação
+```
 
 ### Módulo 1 — Cinemática
 

@@ -124,7 +124,7 @@ A resposta da Mecânica Quântica será surpreendente:
 # A. Ondas Eletromagnéticas e Fótons
 
 
-https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Física/Mecânica%20Quântica/images/capa-quantica.png
+![Texto Alternativo](https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Física/Mecânica%20Quântica/images/capa-quantica.png)
 
 ---
 

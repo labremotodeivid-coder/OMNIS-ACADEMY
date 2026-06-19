@@ -1,1 +1,1 @@
-# Capítulo 1 — ONDAS E PARTÍCULAS. INTRODUÇÃO ÀS IDEIAS BÁSICAS DA MECÂNICA QUÂNTICA
+# Capítulo 1 — Ondas e partículas. Introdução às ideias fundamentais da mecânica quântica

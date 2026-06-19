@@ -123,9 +123,8 @@ A resposta da Mecânica Quântica será surpreendente:
 
 # A. Ondas Eletromagnéticas e Fótons
 
-```md
-[IMAGEM: Campo elétrico e campo magnético de uma onda eletromagnética]
-```
+
+https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Física/Mecânica%20Quântica/images/capa-quantica.png
 
 ---
 

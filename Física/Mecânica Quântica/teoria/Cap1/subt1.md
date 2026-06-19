@@ -89,9 +89,9 @@ Como consequência, os elétrons deveriam perder energia e colapsar sobre o núc
 
 Isso implicaria:
 
-$$
-\text{átomos instáveis}
-$$
+
+$$\text{átomos instáveis}$$
+
 
 Entretanto, os átomos são estáveis.
 
@@ -163,9 +163,8 @@ Quando duas ondas se superpõem, pode ocorrer reforço ou cancelamento.
 
 Matematicamente:
 
-$$
-E_{total}=E_1+E_2
-$$
+
+$$E_{total}=E_1+E_2$$
 
 Como a intensidade observada é proporcional ao quadrado da amplitude,
 

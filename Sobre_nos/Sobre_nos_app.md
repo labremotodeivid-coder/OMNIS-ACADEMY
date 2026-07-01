@@ -1,4 +1,4 @@
-![Logo OMNIS](https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Sobre_nos/Images/logo.jpg)
+![Logo OMNIS](https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Sobre_nos/Images/logo.png)
 
 # Sobre a OMNIS
 

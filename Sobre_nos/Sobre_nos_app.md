@@ -1,4 +1,4 @@
-![Logo OMNIS](https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Sobre_nos/Images/logo.png)
+![Logo OMNIS](https://raw.githubusercontent.com/labremotodeivid-coder/OMNIS-ACADEMY/main/Sobre_nos/Images/logo.png)
 
 # Sobre a OMNIS
 
@@ -15,7 +15,7 @@ Tornar o acesso a laboratórios e experimentos científicos mais fácil,
 conectando estudantes e curiosos a ferramentas reais de aprendizado —
 de qualquer lugar, a qualquer hora.
 
-![Experimento em andamento](https://cdn.jsdelivr.net/gh/labremotodeivid-coder/OMNIS-ACADEMY@main/Sobre_nos/Images/experimento.png)
+![Experimento em andamento](https://raw.githubusercontent.com/labremotodeivid-coder/OMNIS-ACADEMY/main/Sobre_nos/Images/experimento.png)
 
 ## O que você encontra por aqui
 
